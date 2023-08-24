@@ -1,4 +1,6 @@
-0x06. Unittests in JS
+
+# 0x06. Unittests in JS
+
 UnitTests
 Back-end
 JavaScript
@@ -523,3 +525,4 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x06-unittests_in_js
 File: 10-api/api.js, 10-api/api.test.js, 10-api/package.json
+   
